@@ -16,7 +16,7 @@
 </p>
 
 <p align="center" style="font-size: 5 em; margin-top: 0.5em">
-    <a href="https://arxiv.org/abs/xxx" style="text-decoration: none; margin: 0 10px;">
+    <a href="https://arxiv.org/abs/2507.15852" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?logo=arxiv&style=for-the-badge">
     </a>
     <a href="https://rookiexiong7.github.io/projects/SeC" style="text-decoration: none; margin: 0 10px;">
