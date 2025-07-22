@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/40fbf928-5722-45e1-adae-adb70c1251f7
 
 ## 📜 News
 
-🚀 [2025/7/21] The [Paper](https://arxiv.org/abs/2507.xxxxx) and [Homepage](https://rookiexiong7.github.io/projects/SeC/) are released!
+🚀 [2025/7/22] The [Paper](https://arxiv.org/abs/2507.15852) and [Project Page](https://rookiexiong7.github.io/projects/SeC/) are released!
 
 ## 💡 Highlights
 
@@ -102,9 +102,8 @@ If you find our work helpful for your research, please consider giving a star �
 ```bibtex
   @article{zhang2025sec,
     title     = {SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction},
-    author    = {Zhixiong Zhang and Shuangrui Ding and Xiaoyi Dong and Yuhang Zang and Yuhang Cao and Dahua Lin and Jiaqi Wang},
-    journal   = {arXiv preprint arXiv:2507.0xxxx},
-    year      = {2025},
-    url       = {https://arxiv.org/abs/2507.0xxxx}
+    author    = {Zhixiong Zhang and Shuangrui Ding and Xiaoyi Dong and Songxin He and Jianfan Lin and Junsong Tang and Yuhang Zang and Yuhang Cao and Dahua Lin and Jiaqi Wang},
+    journal   = {arXiv preprint arXiv:2507.15852},
+    year      = {2025}
   }
 ```
