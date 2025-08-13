@@ -39,6 +39,8 @@ https://github.com/user-attachments/assets/40fbf928-5722-45e1-adae-adb70c1251f7
 
 ## 📜 News
 
+🏆 [2025/7/22] SeC sets a new state-of-the-art on the latest MOSE v2 [leaderboard](https://www.codabench.org/competitions/10062/#/results-tab)! 
+
 🚀 [2025/7/22] The [Paper](https://arxiv.org/abs/2507.15852) and [Project Page](https://rookiexiong7.github.io/projects/SeC/) are released!
 
 ## 💡 Highlights
@@ -95,7 +97,7 @@ The evaluation instruction can be found in [EVALUATE.md](vos_evaluation/EVALUATE
 ## ❤️ Acknowledgments and License
 This repository are licensed under a [Apache License 2.0](LICENSE). 
 
-This repo benefits from [SAM 2](https://github.com/facebookresearch/sam2) and [Sa2VA](https://github.com/magic-research/Sa2VA). Thanks for their wonderful works.
+This repo benefits from [SAM 2](https://github.com/facebookresearch/sam2), [SAM2Long](https://github.com/Mark12Ding/SAM2Long) and [Sa2VA](https://github.com/magic-research/Sa2VA). Thanks for their wonderful works.
 
 ## ✒️ Citation
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
