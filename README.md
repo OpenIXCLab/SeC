@@ -53,12 +53,12 @@ https://github.com/user-attachments/assets/40fbf928-5722-45e1-adae-adb70c1251f7
 <!-- where SeC achieves an **11.8-point improvement** over **SAM 2.1**, setting a new state-of-the-art in concept-aware VOS. -->
 
 ## ✨ SeC Performance
-| Model | SA-V val | SA-V test | LVOS v2 val | MOSE val | DAVIS 2017 val | YTVOS 2019 val | SeCVOS |
-| :------ | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-| SAM 2.1 | 78.6 | 79.6 | 84.1 | 74.5 | 90.6 | 88.7 | 58.2 |
-| SAMURAI | 79.8 | 80.0 | 84.2 | 72.6 | 89.9 | 88.3 | 62.2 |
-| SAM2.1Long | 81.1 | 81.2 | 85.9 | 75.2 | 91.4 | 88.7 | 62.3 |
-| **SeC (Ours)** | **82.7**  | **81.7** | **86.5**  | **75.3**  | **91.3** | **88.6** | **70.0** |
+| Model | SA-V val | SA-V test | LVOS v2 val | MOSE v1 | MOSE v2 |DAVIS 2017 val | YTVOS 2019 val | SeCVOS |
+| :---- | :------: | :-------: | :---------: | :-----: | :-----: | :-----------: | :------------: | :----: |
+| SAM 2.1 | 78.6 | 79.6 | 84.1 | 74.5 | 49.5 | 90.6 | 88.7 | 58.2 |
+| SAMURAI | 79.8 | 80.0 | 84.2 | 72.6 | 51.1 | 89.9 | 88.3 | 62.2 |
+| SAM2.1Long | 81.1 | 81.2 | 85.9 | 75.2 | 51.5 | 91.4 | 88.7 | 62.3 |
+| **SeC (Ours)** | **82.7**  | **81.7** | **86.5**  | **75.3**  | **53.8** | **91.3** | **88.6** | **70.0** |
 
 ## 👨‍💻 TODO
 
