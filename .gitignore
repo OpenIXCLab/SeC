@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+
+dataset/SA-V
+pretrained_models/*InternVL*
+pretrained_models/*.pt
+
+work_dirs/
+saved_models/
+vos_inference_*.sh

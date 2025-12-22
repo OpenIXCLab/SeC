@@ -39,7 +39,9 @@ https://github.com/user-attachments/assets/40fbf928-5722-45e1-adae-adb70c1251f7
 
 ## 📜 News
 
-🚀 [2025/10/14] SeC is cited by [SAM 3](https://openreview.net/forum?id=r35clVtGzw) and used as a baseline!
+🚀 [2025/12/22] Training code has been fully open-sourced.
+
+🚀 [2025/10/14] SeC is cited by [SAM 3](https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/) and used as a baseline!
 
 🏆 [2025/8/13] SeC sets a new state-of-the-art on the latest MOSE v2 [leaderboard](https://www.codabench.org/competitions/10062/#/results-tab)! 
 
@@ -62,7 +64,7 @@ https://github.com/user-attachments/assets/40fbf928-5722-45e1-adae-adb70c1251f7
 
 ## 👨‍💻 TODO
 
-- [ ] Release SeC training code
+- [x] Release SeC training code
 - [x] Release SeCVOS benchmark annotations
 - [x] Release SeC inference code and checkpoints
 

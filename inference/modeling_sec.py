@@ -167,8 +167,15 @@ class SeCModel(PreTrainedModel):
         apply_postprocessing = getattr(config, 'apply_postprocessing', True)
         hydra_overrides_extra = getattr(config, 'hydra_overrides_extra', [])
         grounding_maskmem_num = getattr(config, 'grounding_maskmem_num', 22)
+        
+        # Compatible with previous versions
+        if config.grounding_encoder_config == "longsam2.1/longsam2.1_hiera_l.yaml":
+            grounding_encoder_config == "sec_sam2.1_hiera_l.yaml"
+        else:
+            grounding_encoder_config = config.grounding_encoder_config
+        
         self.grounding_encoder = build_sam2_video_predictor(
-            config.grounding_encoder_config,
+            grounding_encoder_config,
             num_maskmem=grounding_maskmem_num,
             apply_postprocessing=apply_postprocessing,
             hydra_overrides_extra=hydra_overrides_extra
