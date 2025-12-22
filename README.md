@@ -98,6 +98,11 @@ The inference instruction is in [INFERENCE.md](vos_evaluation/INFERENCE.md).
 
 The evaluation instruction can be found in [EVALUATE.md](vos_evaluation/EVALUATE.md). To evaluate performance on seen and unseen categories in the LVOS dataset, refer to the evaluation code available [here](https://github.com/LingyiHongfd/lvos-evaluation).
 
+### 5. Training SeC
+Training instructions can be found in [TRAIN.md](training/TRAIN.md).
+
+To train SeC on your own dataset, simply organize your data following the format described there.
+
 ## ❤️ Acknowledgments and License
 This repository are licensed under a [Apache License 2.0](LICENSE). 
 
