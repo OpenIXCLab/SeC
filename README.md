@@ -39,6 +39,8 @@ https://github.com/user-attachments/assets/40fbf928-5722-45e1-adae-adb70c1251f7
 
 ## 📜 News
 
+🚀 [2026/1/26] SeC is accepted to ICLR 2026. See you in Rio de Janeiro!
+
 🚀 [2025/12/22] Training code has been fully open-sourced.
 
 🚀 [2025/10/14] SeC is cited by [SAM 3](https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/) and used as a baseline!
