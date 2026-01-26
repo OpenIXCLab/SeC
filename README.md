@@ -1,4 +1,4 @@
-# SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction
+# SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction (ICLR 2026)
 
 🚀🚀🚀 Official implementation of **SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**
 
