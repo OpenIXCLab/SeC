@@ -113,8 +113,7 @@ This repo benefits from [SAM 2](https://github.com/facebookresearch/sam2), [SAM2
 ## ✒️ Citation
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
 ```bibtex
-@inproceedings{
-    zhang2026advancing,
+@inproceedings{zhang2026advancing,
     title={Advancing Complex Video Object Segmentation via Progressive Concept Construction},
     author={Zhixiong Zhang and Shuangrui Ding and Xiaoyi Dong and Songxin He and Jianfan Lin and Junsong Tang and Yuhang Zang and Yuhang Cao and Dahua Lin and Jiaqi Wang},
     booktitle={The Fourteenth International Conference on Learning Representations},
