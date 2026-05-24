@@ -170,7 +170,7 @@ class SeCModel(PreTrainedModel):
         
         # Compatible with previous versions
         if config.grounding_encoder_config == "longsam2.1/longsam2.1_hiera_l.yaml":
-            grounding_encoder_config == "sec_sam2.1_hiera_l.yaml"
+            grounding_encoder_config = "sec_sam2.1_hiera_l.yaml"
         else:
             grounding_encoder_config = config.grounding_encoder_config
         
